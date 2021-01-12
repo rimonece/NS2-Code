@@ -5,7 +5,10 @@ To design a 4G/5G wireless network, you can use these codes. The .tcl files are 
 I installed NS2.35 in Ubuntu LTS 14.04. I use a hour-wise traffic profile of different users (CBR, VBR, and TCP). In the terminal, I run this way:
 
 ns2.35 ns mmr.tcl
-% after that I gor mmr.tr
+
+% after that I got mmr.tr
 % Then to get throughput, delay, and jitter ( You can use different files)
+
 gawk -k common.awk mmr.tr
+
 % then I will get results and plot in the excel file to generate figures.
