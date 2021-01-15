@@ -12,3 +12,8 @@ ns2.35 ns mmr.tcl
 gawk -k common.awk mmr.tr
 
 % then I will get results and plot in the excel file to generate figures.
+
+Related Paper: 
+A Green Communication Model for 5G Systems (https://ieeexplore.ieee.org/document/7918597) and 
+Energy Efficient Backhauling for 5G Small Cell Networks (https://ieeexplore.ieee.org/document/8361042).
+An energy efficient resource management and planning system for 5G networks (https://ieeexplore.ieee.org/document/7983108)
